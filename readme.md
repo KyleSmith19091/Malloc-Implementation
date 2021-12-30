@@ -19,3 +19,15 @@ The main purpouse of the project is to get a basic understanding of how malloc w
 - dumpHeap()
 
 Printing the heap, will show the actaul values that are stored in the heap. Dumping the heap will show some more of the metadata that is associated with the heap, such as used, freed and unused blocks.
+
+<h3>Usage</h3>
+
+<h4>Requirements</h4>
+- clang++ compiler => Must be able to compile c++11 code
+- make
+
+To run and compile enter:
+
+```bash
+make
+```
